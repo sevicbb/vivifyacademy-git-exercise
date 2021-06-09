@@ -1,1 +1,2 @@
-console.log('script 1');
+// novi komentar
+console.log("script 1");
